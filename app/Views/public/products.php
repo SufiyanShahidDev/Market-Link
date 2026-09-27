@@ -1,4 +1,4 @@
-```php
+
 <?php
 $products = $products ?? [];
 $q = $q ?? '';
